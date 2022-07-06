@@ -1,7 +1,7 @@
 ### Hi there , I'm Abdurrahman - aka [Abduley](https://www.instagram.com/abduleynet/) 👋
 
-#### Junior Python Developer
-My name is Abdurrahman. I love skateboarding, programming and listen to music. I live in Konya/Turkey. I'm a high school student
+## Junior Python Developer
+
 
 - 🔭 I’m currently working on a project 
 - 🌱 I’m currently learning English 
