@@ -20,5 +20,5 @@ I like listen to music. I love skateboarding. I read books. I love to learn new 
 ## Contact Me
 
 
-[<img src='https://img.icons8.com/doodle/48/000000/facebook-new.png' alt='facebook' height='40'>](https://facebook.com/miniyazilimcitr/)   [<img src='https://img.icons8.com/doodle/48/000000/instagram--v1.png' alt='instagram' height='40'>](https://instagram.com/miniyazilimci/)   [<img src='https://img.icons8.com/doodle/48/000000/twitter-circled.png' alt='twitter' height='40'>](https://twitter.com/miniyazilimci/)  
+[<img src='https://img.icons8.com/doodle/48/000000/instagram--v1.png' alt='instagram' height='40'>](https://instagram.com/miniyazilimci/)   [<img src='https://img.icons8.com/doodle/48/000000/twitter-circled.png' alt='twitter' height='40'>](https://twitter.com/miniyazilimci/)  
 
