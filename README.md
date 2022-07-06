@@ -19,10 +19,4 @@ I like listen to music. I love skateboarding. I read books. I love to learn new 
 
 ## Connect with Me
 
-[<img src='https://img.icons8.com/doodle/48/000000/instagram--v1.png' alt='instagram' height='40'>](https://instagram.com/miniyazilimci/)   [<img src='https://img.icons8.com/doodle/48/000000/twitter-circled.png' alt='twitter' height='40'>](https://twitter.com/miniyazilimci/)  
-
-<br />
-
-## Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+[<img src='https://img.icons8.com/doodle/48/000000/instagram--v1.png' alt='instagram' height='40'>](https://instagram.com/miniyazilimci/)   [<img src='https://img.icons8.com/doodle/48/000000/twitter-circled.png' alt='twitter' height='40'>](https://twitter.com/miniyazilimci/) 
