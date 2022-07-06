@@ -1,23 +1,24 @@
-### Hi there , I'm Abdurrahman - aka [Abduley](https://www.instagram.com/abduleynet/) 👋
+### This is Abdurrahman Cosar's GitHub Profile
 
-## Junior Python Developer
+## Who am i?
+
+My name is **Abdurrahman Cosar** - aka **[Abduley](https://www.instagram.com/abduleynet/)** and **[Mini Yazılımcı](https://www.twitter.com/miniyazilimci/)**. I'm from Turkey. I live in Konya/Turkey. I'm a high school student.
+__**I will be best python developer in the world.**__ I'm currently working on a project. You can learn python with me on my GitHub. I'm improve myself every day.
+
+## My Hobies
+I like listen to music. I love skateboarding. I read books. I love to learn new things. I love programming and debugging. :D
+
+## My Projects
+-  The application for Discord (0.6M Users)
+-  Banking application (backend)
+
+## Which languages do I know?
+
+-  **Python**
+-  **JavaScript**
+
+## Contact Me
 
 
-- 🔭 I’m currently working on a project 
-- 🌱 I’m currently learning English 
-- 💻 I love programming
-- 🎵 I love listen to music
-- 🌍 I live in Konya/Turkey
-- 👨‍🎓 I'm High School Student
-- 🏋️‍ I'm doing fitness
+[<img src='https://img.icons8.com/doodle/48/000000/facebook-new.png' alt='facebook' height='40'>](https://facebook.com/miniyazilimcitr/)   [<img src='https://img.icons8.com/doodle/48/000000/instagram--v1.png' alt='instagram' height='40'>](https://instagram.com/miniyazilimci/)   [<img src='https://img.icons8.com/doodle/48/000000/twitter-circled.png' alt='twitter' height='40'>](https://twitter.com/miniyazilimci/)  
 
-<br />
-
-## Connect Me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/miniyazilimci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/miniyazilimci/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/miniyazilimci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/miniyazilimci)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://gencyazilimci.com)  
-<br />
-<br />
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=miniyazilimci&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/miniyazilimci)  
