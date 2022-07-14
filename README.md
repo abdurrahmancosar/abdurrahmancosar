@@ -2,7 +2,7 @@
 
 ## Who am i?
 
-My name is **Abdurrahman Cosar** - aka **[Abduley](https://www.instagram.com/abduleynet/)** and **[Mini Yazılımcı](https://www.twitter.com/miniyazilimci/)**. I'm from Turkey. I live in Konya/Turkey. I'm a high school student.
+My name is **Abdurrahman Cosar** - aka **[Abduley](https://www.instagram.com/abduleynet/)**. I'm from Turkey. I live in Konya/Turkey. I'm a high school student.
 __**I will be best python developer in the world.**__ I'm currently working on a project. You can learn python with me on my GitHub. I'm improve myself every day.
 
 ## My Hobies
