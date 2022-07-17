@@ -9,7 +9,7 @@ __**I will be best python developer in the world.**__ I'm currently working on a
 I like listen to music. I love skateboarding. I read books. I love to learn new things. I love programming and debugging. 😄
 
 ## My Projects
--  The application for Discord (0.6M Users)
+-  The application for Discord (600K Users)
 -  Banking application (backend)
 
 ## Which languages do I know?
